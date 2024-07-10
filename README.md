@@ -1,4 +1,4 @@
-# workflow
+# :octocat: workflow
 
 ## 1. Conflict가 최소로 발생하는 Flow
 feature develop release main
@@ -14,5 +14,6 @@ feature develop release main
 
 ## 5. PR 정책
 reviewer 선정 기준
+
 
 ## 6. 최소 reviewer 
