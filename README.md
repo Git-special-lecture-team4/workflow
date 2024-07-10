@@ -48,3 +48,5 @@ reviewer 선정 기준
 
 
 ## 6. 최소 reviewer 
+1. feature 브랜치 : 1명 -> 자기 코드 아닌 것
+2. develop 브랜치 : 2명 -> 고정
